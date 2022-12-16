@@ -1,5 +1,4 @@
-# HooBank - Modern UI/UX Website (React.js)
-Live Demo: [Click Here](https://hoobank-app-reactjs.netlify.app/)
+# HooBank - Modern UI/UX Website 
 
 ## Usage
 In the project directory, you can run:
@@ -15,7 +14,3 @@ npm run dev
 
 ## Screenshot
 ![img](public/Screenshot.png)
-
-## License
-MIT
-
